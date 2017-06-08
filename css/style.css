@@ -15,11 +15,11 @@ army green: 41521F;
 	color: white;
 }
 
-.navbar-brand{
+/*.navbar-brand{
 	margin-left: 60px;
 	color: white;
 	text-shadow: 1px 2px 2px black;
-}
+}*/
 
 .nav{
 	margin-right: 60px;
@@ -41,3 +41,25 @@ ul a{
 }
 
 /*estilos SECCION2*/
+#informacion{
+	margin: 2em auto;
+}
+
+ .imagen-full{
+ 	width: 100%;
+ }
+
+.titulo-upper{
+	color:grey;
+	font-size: 1em;
+	font-weight: 700;
+}
+
+.encabezado-info{
+	color:#A89F68;
+	font-weight: 700;
+}
+
+#informacion p{
+	color:grey;
+}
