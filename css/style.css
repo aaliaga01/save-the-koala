@@ -2,3 +2,42 @@
 wood brown: A89F68;
 army green: 41521F;
 */
+
+/*estilos BIENVENIDA*/
+.seccion-1{
+    background-image: url(../img/portada.jpg);
+    height: 700px;
+    background-size: cover;
+}
+
+.texto-bienvenida{
+	padding: 16em 2em;
+	color: white;
+}
+
+.navbar-brand{
+	margin-left: 60px;
+	color: white;
+	text-shadow: 1px 2px 2px black;
+}
+
+.nav{
+	margin-right: 60px;
+}
+
+ul a{
+	color: white;
+	text-shadow: 1px 2px 2px black;
+}
+
+#bienvenida .btn-default{
+	background-color: #41521F;
+	border:none;
+	color: white;
+}
+
+#bienvenida .btn-default:hover{
+	background-color: #A89F68;
+}
+
+/*estilos SECCION2*/
