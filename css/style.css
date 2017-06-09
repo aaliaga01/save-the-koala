@@ -10,16 +10,33 @@ army green: 41521F;
     background-size: cover;
 }
 
-.texto-bienvenida{
-	padding: 16em 2em;
+.ajustar{
+	width: 80%;
+	margin:0 auto;
+}
+
+#menu a{
 	color: white;
 }
 
-/*.navbar-brand{
-	margin-left: 60px;
+#menu a:hover{
+	color: #A89F68;
+}
+
+.texto-bienvenida{
+	padding: 16em 0;
 	color: white;
+}
+
+.navbar-inverse{
 	text-shadow: 1px 2px 2px black;
-}*/
+}
+
+.navbar-toggle{
+	color: white;
+	border:none;
+}
+
 .navbar-inverse{
 	background-color: transparent;
 	border: none;
